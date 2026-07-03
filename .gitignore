@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv/
 .env
+langchain_examples/__pycache__/
+langchain_examples/.langgraph_api/

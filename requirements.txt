@@ -5,3 +5,6 @@ langchain-openai
 langchain-core
 langgraph
 tavily
+langgraph-cli
+langgraph-api
+langsmith
